@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For EEPROM
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+I2C_EEPROM	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+get	KEYWORD2
+put KEYWORD2
+getString KEYWORD2
+putString KEYWORD2
+write KEYWORD2
+read  KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
