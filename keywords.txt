@@ -13,11 +13,11 @@ I2C_EEPROM	KEYWORD1
 #######################################
 
 get	KEYWORD2
-put KEYWORD2
-getString KEYWORD2
-putString KEYWORD2
-write KEYWORD2
-read  KEYWORD2
+put	KEYWORD2
+getString	KEYWORD2
+putString	KEYWORD2
+write	KEYWORD2
+read	KEYWORD2
 #######################################
 # Constants (LITERAL1)
 #######################################
